@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|c:\\users\\ian\\downloads\\oop_midterm_assignment2\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|solutionrelative:taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|c:\\users\\ian\\downloads\\oop_midterm_assignment2\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|solutionrelative:addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|c:\\users\\ian\\downloads\\oop_midterm_assignment2\\addform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|solutionrelative:addform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|c:\\users\\ian\\downloads\\oop_midterm_assignment2\\confirmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|solutionrelative:confirmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|c:\\users\\ian\\downloads\\oop_midterm_assignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|c:\\users\\ian\\downloads\\oop_midterm_assignment2\\confirmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|solutionrelative:confirmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|c:\\users\\ian\\downloads\\oop_midterm_assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41616358-65CA-4CC2-A5FA-D4F3A4F4B6DD}|TODOlistapplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:27:34.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\TaskManager.cs",
+              "RelativeDocumentMoniker": "TaskManager.cs",
+              "ToolTip": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\TaskManager.cs",
+              "RelativeToolTip": "TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:27:33.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\AddForm.cs",
+              "RelativeDocumentMoniker": "AddForm.cs",
+              "ToolTip": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\AddForm.cs [Design]",
+              "RelativeToolTip": "AddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:27:27.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfirmAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\ConfirmAdd.cs",
+              "RelativeDocumentMoniker": "ConfirmAdd.cs",
+              "ToolTip": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\ConfirmAdd.cs [Design]",
+              "RelativeToolTip": "ConfirmAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:27:24.471Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:27:23.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfirmAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\ConfirmAdd.cs",
+              "RelativeDocumentMoniker": "ConfirmAdd.cs",
+              "ToolTip": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\ConfirmAdd.cs",
+              "RelativeToolTip": "ConfirmAdd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:27:20.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\AddForm.Designer.cs",
+              "RelativeDocumentMoniker": "AddForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Ian\\Downloads\\OOP_MIDTERM_ASSIGNMENT2\\AddForm.Designer.cs",
+              "RelativeToolTip": "AddForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:27:17.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
